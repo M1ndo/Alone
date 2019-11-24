@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Created By ybenel
+# Created By ybenel 
 ##########################################
 Green="\033[1;33m"
 Blue="\033[1;34m"
@@ -76,7 +76,7 @@ print("        "+Green+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+Green+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+Green+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+Blue+"                   "+unknown+"["+unknown3+"Alone"+unknown+"]"+unknown+"         ")
-print("     "+purple+"             "+unknown+"["+unknown2+"Created By ybenel"+unknown+"]"+unknown+"    "+Reset+"\n")
+print("     "+purple+"             "+unknown+"["+unknown2+"  Created By ybenel"+unknown+"]"+unknown+"    "+Reset+"\n")
 def main():
 	parser = argparse.ArgumentParser(description = "Download videos from facebook In High quality Or In Low")
 
