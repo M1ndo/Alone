@@ -17,11 +17,5 @@ python3 alone.py video url resolution hd
 python3 alone.py video url resolution sd
 ```
 
-<p align="center">
-<a href="https://asciinema.org/a/247341">
-<img src="https://asciinema.org/a/247341.svg">
-</a>
-</p>
-
 # Author 
 ## ybenel 
